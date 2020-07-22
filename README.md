@@ -1,2 +1,2 @@
-# Dive-into-NLP-KG
-The experience of NLP learning from a new
+# Dive-into-NLP
+the experience of learning NLP from a new
